@@ -1,2 +1,6 @@
-# bsee-seadat-modernization-template
-INCATech GIS Practice Web Application Templates - Maps SDK for JavaScript + ArcGIS Enterprise
+# BSSE SEADAT Modernization Template
+
+- Vite (Build System)
+- React
+- Esri Maps SDK for JavaScript (4.32 - current as of Feb 2025)
+
