@@ -1,4 +1,4 @@
-# BSSE SEADAT Modernization Template
+# BSSE SEADAT Modernization Scaffolding 
 
 - Vite (Build System)
 - React
